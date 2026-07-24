@@ -1,0 +1,91 @@
+{
+  "locations": [
+    {
+      "id": "1",
+      "name": "Harare CBD",
+      "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa"
+    },
+    {
+      "id": "2",
+      "name": "Borrowdale",
+      "image": "https://images.unsplash.com/photo-1568605114967-8130f3a36994"
+    },
+    {
+      "id": "3",
+      "name": "Avondale",
+      "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688"
+    },
+    {
+      "id": "4",
+      "name": "Mount Pleasant",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c"
+    },
+    {
+      "id": "5",
+      "name": "Belvedere",
+      "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750"
+    }
+  ],
+  "houses": [
+    {
+      "id": "1",
+      "locationId": "1",
+      "title": "Modern 2 Bed Apartment",
+      "price": 450,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "image": "https://images.unsplash.com/photo-1502672023488-70e25813eb80",
+      "available": true
+    },
+    {
+      "id": "2",
+      "locationId": "1",
+      "title": "Studio Flat",
+      "price": 300,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
+      "available": true
+    },
+    {
+      "id": "3",
+      "locationId": "2",
+      "title": "Family Home with Garden",
+      "price": 900,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "image": "https://images.unsplash.com/photo-1568605114967-8130f3a36994",
+      "available": true
+    },
+    {
+      "id": "4",
+      "locationId": "3",
+      "title": "Cozy Cottage",
+      "price": 500,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be",
+      "available": false
+    },
+    {
+      "id": "5",
+      "locationId": "4",
+      "title": "Executive Townhouse",
+      "price": 1200,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914",
+      "available": true
+    },
+    {
+      "id": "6",
+      "locationId": "5",
+      "title": "Simple 1 Bed",
+      "price": 250,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858",
+      "available": true
+    }
+  ]
+}
